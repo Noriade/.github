@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Applied AI agents for infrastructure operations, documentation and monitoring.**
 
-- 👯 I'm looking to collaborate on **Open-source tools for Linux operations, observability, automation and backup verification.**https://korben.info/api-fxtwitter-lire-x-sans-compte.html
+- 👯 I'm looking to collaborate on **Open-source tools for Linux operations, observability, automation and backup verification.**
 
 - 🤝 I'm looking for help with **Making complex systems easier to observe, automate and operate reliably.**
 
