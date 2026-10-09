@@ -2,9 +2,8 @@
 
 ### Linux infrastructure, observability & automation
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Noriade" alt="Noriade" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/noriade_en" target="blank"><img src="https://img.shields.io/twitter/follow/noriade_en?logo=twitter&style=for-the-badge" alt="noriade_en" /></a> </p>
+<p align="left"> <a href="https://twitter.com/noriade" target="blank"><img src="https://img.shields.io/twitter/follow/noriade?logo=twitter&style=for-the-badge" alt="noriade" /></a> </p>
 
 - 🔭 I'm currently working on **Reliable Linux infrastructure, observability and automation for teams that need senior operations without a full-time SRE.**
 
