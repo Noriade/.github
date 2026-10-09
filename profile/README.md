@@ -15,11 +15,11 @@
 
 - 💬 Ask me about **Linux operations, Ansible/AWX, monitoring, backups, incident readiness and infrastructure automation.**
 
-- 📫 How to reach me **https://noriade.com**
+- 📫 How to reach us **[Noriade.com](https://noriade.com)**
 
-- 👨‍💻 All of my projects are available at **[https://noriade.com](https://noriade.com)**
+- 👨‍💻 All of my projects are available at **[Noriade.com](https://noriade.com)**
 
-- 📄 Know about my experiences **[https://nrenault.com](https://nrenault.com)**
+- 📄 Know about my experiences **[Nrenault.com](https://nrenault.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
